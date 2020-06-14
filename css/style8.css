@@ -1,0 +1,30 @@
+h3{
+	text-align: center;
+}
+#v1{
+	border: double 3px;
+	width: 60%;
+	height: 15em;
+}
+#v2{
+	padding: 5px 0px;
+}
+#v3{
+	padding-left: 100px;
+}
+#T1{
+	border: 2px inset;
+}
+button{
+	margin-top: 2px;
+	border: 2px outset;
+	padding: 3px 10px; 
+}
+.input{
+	/*box-shadow: 6px 6px inset;*/
+	padding: 100px;
+}
+.input1{
+	box-shadow: 2px 2px inset;
+	border-radius: 50%;
+}

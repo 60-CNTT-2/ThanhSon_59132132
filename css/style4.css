@@ -1,0 +1,23 @@
+div{
+	border: 5px solid;
+	padding: 0px 1%;
+	width: 100%;
+	height: 200%;
+	float: left;
+	background-image: linear-gradient(orange,aqua);
+}
+#meta{
+	color: #FF99FF;
+}
+b{
+	color: red;
+
+}
+#v{
+	color: blue;
+	width: 100%;
+	height: 50px;
+}
+#v1{
+	float: right;
+}

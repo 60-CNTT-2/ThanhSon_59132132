@@ -1,0 +1,43 @@
+body{
+	width: 100%;
+	height: 100%;
+}
+#meta{
+	border: 1px solid;
+	padding: 0px 0px 1% 1%;
+	width: 80%;
+	float: left;
+	background-image: linear-gradient(aqua,yellow);
+
+}
+h3{
+	text-align: center;
+	color: blue;
+}
+.a1{
+	margin-left: 2%; 
+	color: black;
+}
+img{
+	display: inline-block;
+	float: left;
+	margin-left: 2px;
+	width: 49%;
+	height: 100%;
+}
+
+#meta1{
+	border: 1px solid;
+	padding: 1px;
+	float: left;
+	width: 40%;
+	height: 6em;
+	background-color: green;
+	box-sizing: border-box;
+}
+#meta2{
+	width: 100%;
+	clear: both;
+	float: left;
+	margin-top: 10px; 
+}
